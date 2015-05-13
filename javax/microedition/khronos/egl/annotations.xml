@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.microedition.khronos.egl.EGLConfig'>
+        <annotation name='java.lang.annotation.Deprecated' />
+    </item>
+</root>
